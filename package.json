@@ -1,5 +1,5 @@
 {
-  "name": "demo1",
+  "name": "@BondarevskyYC/nom-demo",
   "version": "1.0.0",
   "description": "this is simple demo for artifact registry",
   "main": "index.js",
