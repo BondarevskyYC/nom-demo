@@ -16,6 +16,6 @@
     "url": "https://github.com/BondarevskyYC/nom-demo"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/BondarevskyYC"
+    "registry": "https://registry.cloud.yandex.net/npm/cn1uj6og6m47r8cmcbq6"
   }
 }
