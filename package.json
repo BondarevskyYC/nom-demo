@@ -1,21 +1,12 @@
 {
-  "name": "@BondarevskyYC/nom-demo",
-  "version": "1.0.0",
-  "description": "this is simple demo for artifact registry",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo 'fake test completed'"
-  },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.21.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BondarevskyYC/nom-demo"
-  },
-  "publishConfig": {
-    "registry": "https://registry.cloud.yandex.net/npm/cn1uj6og6m47r8cmcbq6"
-  }
+    "name": "sourcecraft-samples-nodejs",
+    "version": "1.0.0",
+    "description": "Node JS sample",
+    "license": "MIT",
+    "author": "SourceCraft Team",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"test passed\""
+    }
 }
